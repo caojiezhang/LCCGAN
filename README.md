@@ -1,4 +1,4 @@
-# LCCGAN
+# Adversarial Learning with Local Coordinate Coding (ICML 2018)
 
 Pytorch implementation for “Adversarial Learning with Local Coordinate Coding”.
 
