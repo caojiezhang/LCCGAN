@@ -1,4 +1,4 @@
-# Adversarial Learning with Local Coordinate Coding (ICML 2018)
+#[LCC-GANs](http://proceedings.mlr.press/v80/cao18a/cao18a.pdf) (ICML 2018)
 
 Pytorch implementation for “Adversarial Learning with Local Coordinate Coding”.
 
